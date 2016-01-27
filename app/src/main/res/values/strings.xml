@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Officer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="hint_pin">PIN</string>
+    <string name="confirm_pin">Re-enter PIN</string>
+    <string name="menu_logout">Logout</string>
+
+    <!--Message / status -->
+    <string name="msg_101">Invalid Acc/PIN</string>
+    <string name="msg_102">Invalid Acc/PIN</string>
+    <string name="msg_103">Invalid Acc/PIN</string>
+    <string name="msg_104">Invalid Acc/PIN</string>
+    <string name="msg_105">Invalid Acc/PIN</string>
+    <string name="msg_106">Invalid Acc/PIN</string>
+    <string name="msg_107">Invalid Acc/PIN</string>
+    <string name="msg_108">Invalid Acc/PIN</string>
+    <string name="msg_109">Invalid Acc/PIN</string>
+    <string name="msg_110">Invalid Acc/PIN</string>
+
+
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="finish">Submit</string>
+    <string name="review">Review</string>
+    <string name="submit_confirm_message">Are you happy with your choices?</string>
+    <string name="submit_confirm_button">OK</string>
+    <string name="title_activity_navigation_main">Panic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_notifications">Notifications</string>
+    <string name="msg_request_default">Help me!</string>
+</resources>

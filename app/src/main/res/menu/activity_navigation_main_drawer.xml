@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_usage"
+            android:icon="@drawable/ic_assignment_black_24dp"
+            android:title="Usage" />
+        <item
+            android:id="@+id/nav_distress_log"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Distress Activity Log" />
+
+    </group>
+
+    <item android:title="Profile Setting">
+        <menu>
+            <item
+                android:id="@+id/nav_view_profile"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Custom Basket" />
+            <item
+                android:id="@+id/nav_forgot_pin"
+                android:icon="@drawable/ic_description_black_24dp"
+                android:title="Forgot PIN" />
+            <item
+                android:id="@+id/action_logout"
+                android:title="@string/menu_logout"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+</menu>
